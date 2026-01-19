@@ -183,7 +183,7 @@
     <string name="level_up">レベルアップ！ %d</string>
     <string name="game_over">ゲームオーバー！</string>
     <string name="stage_clear">ステージ %s 完了！</string>
-    <string name="stage_failed">ステージ %s 失敗れ</string>
+    <string name="stage_failed">ステージ %s 失敗！</string>
     <string name="restarting_adventure">アドベンチャーリスタート中…</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
