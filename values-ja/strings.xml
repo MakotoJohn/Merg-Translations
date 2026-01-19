@@ -187,17 +187,17 @@
     <string name="restarting_adventure">アドベンチャーリスタート中…</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
-    <string name="ordinal_first">%d番目</string>
-    <string name="ordinal_second">%d番目</string>
-    <string name="ordinal_third">%d番目</string>
-    <string name="ordinal_fourth">%d番目</string>
-    <string name="ordinal_fifth">%d番目</string>
-    <string name="ordinal_sixth">%d番目</string>
-    <string name="ordinal_seventh">%d番目</string>
-    <string name="ordinal_eighth">%d番目</string>
-    <string name="ordinal_ninth">%d番目</string>
-    <string name="ordinal_zeroth">%d番目</string>
-    <string name="ordinal_fallback">%d番目</string>
+    <string name="ordinal_first">%d位</string>
+    <string name="ordinal_second">%d位</string>
+    <string name="ordinal_third">%d位</string>
+    <string name="ordinal_fourth">%d位</string>
+    <string name="ordinal_fifth">%d位</string>
+    <string name="ordinal_sixth">%d位</string>
+    <string name="ordinal_seventh">%d位</string>
+    <string name="ordinal_eighth">%d位</string>
+    <string name="ordinal_ninth">%d位</string>
+    <string name="ordinal_zeroth">%d位</string>
+    <string name="ordinal_fallback">%d位</string>
 
     <!-- In Game UI !-->
     <string name="player_size">サイズ: %d</string>
@@ -216,7 +216,7 @@
     <string name="highest_rank">最高ランク</string>
     <string name="session_stat_highest_size">最高サイズ</string>
     <string name="leaderboard">リーダーボード</string>
-    <string name="session_stats">Session Stats</string>
+    <string name="session_stats">現在ゲームの統計</string>
     <string name="debug">デバッグ</string>
     <string name="profiler">プロファイラー</string>
 
@@ -255,9 +255,9 @@
     <string name="open_menu">メニューを開く</string>
     <string name="stop_spectating">観戦者モードを終了</string>
     <string name="spectate">観戦する</string>
-    <string name="previous_entity">Previous Entity</string>
-    <string name="next_entity">Next Entity</string>
-    <string name="left">退室済み</string> <!-- left as in remaining, not the left direction -->
+    <string name="previous_entity">前のエンティティ</string>
+    <string name="next_entity">次のエンティティ</string>
+    <string name="left">残り</string> <!-- left as in remaining, not the left direction -->
     <string name="total">合計</string>
     <string name="unknown">不明</string>
     <string name="invalid_selection">無効な選択です！</string>
@@ -265,3 +265,4 @@
     <string name="room_crash">ルームがクラッシュしました: %s</string>
     <string name="copied_to_clipboard">クリップボードにコピーされました。</string>
 </resources>
+
