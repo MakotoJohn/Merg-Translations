@@ -2,7 +2,7 @@
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">Un solo Jugador/string>
+    <string name="singleplayer">Un solo Jugador</string>
     <string name="multiplayer">Multijugador</string>
     <string name="options">Opciones</string>
     <string name="discord" translatable="false">Discord</string>
@@ -265,7 +265,6 @@
     <string name="unknown">Desconocido</string>
     <string name="invalid_selection">¡Selección no válida!</string>
     <string name="error">Error</string>
-    <string name="room_crash">Sala Crasheada: %s</string>
     <string name="copied_to_clipboard">Copiado al portapapeles.</string>
 
         
