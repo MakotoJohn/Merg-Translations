@@ -123,9 +123,11 @@
     <string name="description_coming_soon">このゲームモードは近日公開予定です。続報をお待ちください！</string>
 
     <!-- Map sizes !-->
+    <string name="mapsize_tiny">極小</string>
     <string name="mapsize_small">小</string>
     <string name="mapsize_medium">普通</string>
     <string name="mapsize_large">大</string>
+    <string name="mapsize_xl">巨大</string>
 
     <!-- Bot difficulties !-->
     <string name="difficulty_easy">易しい</string>
