@@ -35,6 +35,7 @@
     <string name="button_layout">Button Layout</string>
     <string name="customize">Customize</string>
     <string name="leaderboard_size">Leaderboard Size</string>
+    <string name="show_grid">Show Grid</string>
     <string name="show_performance_metrics">Show Performance Metrics</string>
     <string name="skin_outlines">Skin Outlines</string>
     <string name="direction_arrow">Direction Arrow</string>
