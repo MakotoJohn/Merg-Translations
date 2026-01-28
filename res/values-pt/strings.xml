@@ -35,6 +35,7 @@
     <string name="button_layout">Layout dos Botões</string>
     <string name="customize">Personalizar</string>
     <string name="leaderboard_size">Tamanho do Placar</string>
+    <string name="show_grid">Mostrar Grade</string>
     <string name="show_performance_metrics">Mostrar Métricas de Desempenho</string>
     <string name="skin_outlines">Bordas nas Skins</string>
     <string name="direction_arrow">Seta de Direção</string>
@@ -120,7 +121,7 @@
     <string name="description_team_survival">Sobrevivência em equipes! Una-se com a sua equipe para eliminar as equipes adversárias. A última equipe restante ou a equipe com a maior massa somada quando o tempo se esgotar será a equipe ganhadora!</string>
     <string name="description_knockout">Compita em rodadas eliminatórias! Os jogadores poderão renascer livremente até que sejam eliminados em intervalos regulares. Os jogadores menores serão eliminados permanentemente a cada intervalo. Seja o(a) último(a) jogador(a) restante para ganhar!</string>
     <string name="description_adventure">Conclua fases desafiadoras com objetivos únicos! Obtenha progresso no decorrer de que a dificuldade aumenta, ganhe recompensas e veja até onde você consegue chegar. Cada fase traz consigo novos desafios!</string>
-    <string name="description_coming_soon">Esse modo de jogo chegará em breve, esteja antenado(a)!</string>
+    <string name="description_coming_soon">Esse modo de jogo chegará em breve, fique antenado(a)!</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Minúsculo</string>
