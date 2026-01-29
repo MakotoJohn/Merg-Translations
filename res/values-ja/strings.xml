@@ -140,7 +140,7 @@
     <string name="adventure_initializing">初期化中…</string>
     <string name="adventure_obj_eat_all_bots">ボットをすべて食べる</string>
     <string name="adventure_obj_survive">生き残る</string>
-    <string name="adventure_obj_high_speed">ハイスピード！</string>
+    <string name="adventure_obj_high_speed">スピードアップ！</string>
     <string name="adventure_obj_more_holes">もっとホール！</string>
 
     <!-- Timer text !-->
