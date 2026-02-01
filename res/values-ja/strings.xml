@@ -171,7 +171,7 @@
     <string name="selected_skin">現在のスキン</string>
     <string name="select_skin_color">カラーを選択</string>
     <string name="skin_color_preview">プレビュー:</string>
-    <string name="skin_tab_standard">組み込み</string>
+    <string name="skin_tab_standard">デフォルト</string>
     <string name="skin_tab_level">レベル</string>
     <string name="skin_tab_voidstones">ボイドストーン</string>
     <string name="level_skin_locked">このスキンはレベル %d でアンロックされます。</string>
