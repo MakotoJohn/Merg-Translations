@@ -211,13 +211,13 @@
     <string name="xp" translatable="true">経験値:</string>
     <string name="level">レベル</string>
     <string name="food">フード</string>
-    <string name="voidstones">ボイドストーン数</string>
-    <string name="blobs_eaten">食べたブロブ数</string>
-    <string name="session_stat_size_gained">獲得サイズ</string>
+    <string name="voidstones">収集したボイドストーンの数</string>
+    <string name="blobs_eaten">食べたブロブの数</string>
+    <string name="session_stat_size_gained">獲得したサイズ量</string>
     <string name="highest_rank">最高ランク</string>
     <string name="session_stat_highest_size">最高サイズ</string>
     <string name="leaderboard">リーダーボード</string>
-    <string name="session_stats">現在ゲームの統計</string>
+    <string name="session_stats">現在のゲームの統計</string>
     <string name="debug">デバッグ</string>
     <string name="profiler">プロファイラー</string>
 
