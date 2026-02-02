@@ -12,11 +12,8 @@
     <string name="email_copy">Copiar E-mail</string>
     <string name="email_support">E-mail para Suporte:</string>
     <string name="developer">Desenvolvedor:</string>
-    <string name="developer_names" translatable="false">Manu1223\nKuchen</string>
     <string name="skins">Skins:</string>
-    <string name="skins_names" translatable="false">𝑵𝒆𝒚𝒌𝒐𝒐𝒌 𖣂</string>
     <string name="translations">Traduções:</string>
-    <string name="translations_names" translatable="false">Japanese: John♡\nPortuguese: John♡\nSpanish: RagnarK</string>
 
     <!-- Options menu !-->
     <string name="language">Idioma</string>
