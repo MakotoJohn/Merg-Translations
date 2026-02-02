@@ -211,7 +211,7 @@
     <string name="xp" translatable="true">経験値:</string>
     <string name="level">レベル</string>
     <string name="food">フード</string>
-    <string name="voidstones">ボイドストーン</string>
+    <string name="voidstones">ボイドストーン数</string>
     <string name="blobs_eaten">食べたブロブ数</string>
     <string name="session_stat_size_gained">獲得サイズ</string>
     <string name="highest_rank">最高ランク</string>
