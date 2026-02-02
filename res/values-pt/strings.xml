@@ -62,7 +62,7 @@
     <string name="map_size">Tamanho do Mapa</string>
     <string name="bot_count">Contagem de Bots</string>
     <string name="bot_difficulty">Dificuldade dos Bots</string>
-    <string name="decrease_bots">Diminuir Quantidade de Bots</string>
+    <string name="decrease_bots">Reduzir Quantidade de Bots</string>
     <string name="increase_bots">Aumentar Quantidade de Bots</string>
     <string name="max_split_pieces">Núm. Máx. de Splits</string>
     <string name="quick_merge">Juntar-se rapidamente</string>
