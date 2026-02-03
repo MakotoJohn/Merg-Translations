@@ -75,7 +75,7 @@
     <string name="quick_merge">ブロブを即座にマージ</string>
     <string name="no_holes">ホールなし</string>
     <string name="warning_no_holes">統計は保存されません</string>
-    <string name="gold_holes">コールドホール</string>
+    <string name="gold_holes">ゴールドホール</string>
 
     <!-- Profile -->
     <string name="profile">プロフィール</string>
