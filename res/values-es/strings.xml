@@ -93,7 +93,7 @@
     <string name="no_transactions_yet">Aún no hay transacciones</string>
 
     <string name="admin_reward">Recompensa del Admin</string>
-    <string name="in_app_purchase">Compras en la aplicacion</string>
+    <string name="in_app_purchase">Compras en la aplicación</string>
     <string name="ad_reward">Recompensas de anuncios</string>
     <string name="voidstone_gift_received">Voidstone gift received</string>
     <string name="voidstone_gift_send">Voidstone gift send</string>
@@ -101,14 +101,14 @@
     <string name="profile_name_change_bought">Cambio de nombre de perfil comprado</string>
     <string name="profile_name_color_bought">Color del nombre del perfil comprado</string>
     <string name="profile_color_bought">Color de perfil comprado</string>
-    <string name="profile_color_gradient_bought">Degradado de color de perfil comprado</string>
+    <string name="profile_color_gradient_bought">Perfil degradado de color comprado</string>
     <string name="profile_color_gradient_2_bought">Perfil degradado de color 2 comprado</string>
 
     <!-- Profile -->
     <string name="profile">Perfil</string>
-    <string name="not_logged_in">No has iniciado sesion!</string>
+    <string name="not_logged_in">¡No has iniciado sesion!</string>
     <string name="login">Login</string>
-    <string name="login_google">Iniciar sesion con Google</string>
+    <string name="login_google">Iniciar sesión con Google</string>
     <string name="logout">Cerrar sesión</string>
     <string name="logout_all_devices">Cerrar sesión en todos los dispositivos</string>
     <string name="change_name">Cambiar nombre</string>
@@ -135,12 +135,12 @@
     <string name="profile_goodbye">¡Adiós! :(</string>
     <string name="profile_logged_in_with_name">Inició sesión en %s</string>
     <string name="profile_logged_in">Iniciado sesión</string>
-    <string name="profile_logout_confirm">Log out of %s?</string>
+    <string name="profile_logout_confirm">¿Cerrar sesión en %s?</string>
     <string name="profile_logout_confirm_no_name">¿Finalizar la sesión?</string>
     <string name="profile_logout_all_confirm">¿Desconectar todos los dispositivos de %s? Esto puede tardar hasta una hora.</string>
     <string name="profile_logout_all_confirm_no_name">¿Desconectar todos los dispositivos? Esto puede tardar hasta una hora.</string>
     <string name="profile_logout_failed">Error al cerrar sesión</string>
-    <string name="profile_delete_warning">¿Seguro que quieres eliminar tu cuenta de Merg y todos los datos asociados? ¡Esto es irreversible!</string>
+    <string name="profile_delete_warning">¿Seguro que quieres eliminar tu cuenta de Merg y todos los datos asociados? ¡ESTO ES IRREVERSIBLE!</string>
     <string name="profile_delete_type_prompt">Escriba %s para confirmar la eliminación de la cuenta:</string>
     <string name="profile_delete_confirm_text">BORRAR</string>
     <string name="profile_delete_failed">Error al eliminar</string>
@@ -330,9 +330,9 @@
     <string name="dialog_leave_game">Salir del juego?</string>
     <string name="dialog_respawn_warning">Reaparecer? Perderás todo tu tamaño.</string>
     <string name="dialog_change_language">Cambia el lenguaje a %s? La aplicacion necesita recargarse.</string>
-    <string name="dialog_connection_error">Error de conexion</string>
+    <string name="dialog_connection_error">Error de conexión</string>
     <string name="dialog_disconnected">Desconectado</string>
-    <string name="dialog_disconnected_message">Se ha perdido la conexion con el servidor.</string>
+    <string name="dialog_disconnected_message">Se ha perdido la conexión con el servidor.</string>
     <string name="room_crash">Sala Crasheada: %s</string>
     <string name="dialog_yes">SI</string>
     <string name="dialog_no">NO</string>
@@ -387,7 +387,7 @@
     <string name="multiplayer">Multijugador</string>
     <string name="loading">Cargando…</string>
     <string name="room_type_local">Local: %s</string>
-    <string name="room_type_public">Publico: %s</string>
+    <string name="room_type_public">Público: %s</string>
     <string name="room_type_private">Privado: %s</string>
     <string name="map">Mapa</string>
     <string name="size">Tamaño</string>
@@ -421,5 +421,5 @@
     <string name="database_write_fail">Error al escribir la base de datos</string>
     <string name="database_read_fail">La lectura de la base de datos falló</string>
     <string name="internal_server_error">Error Interno del Servidor</string>
-    <string name="unknown_error_code">Código de error desconocido %d</string>
+    <string name="unknown_error_code">Error desconocido. Código %d</string>
 </resources>
