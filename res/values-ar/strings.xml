@@ -36,7 +36,7 @@
     <string name="show_grid">اظهار الشبكة</string>
     <string name="custom_background_image">خلفية مخصصة</string>
     <string name="custom_background_select">اختر صورة</string>
-    <string name="custom_background_opacity">شفافية الخلفية</string
+    <string name="custom_background_opacity">شفافية الخلفية</string>
     <string name="show_performance_metrics">عرض مقاييس الاداء</string>
     <string name="skin_outlines">حواف الدائرة</string>
     <string name="direction_arrow">شكل السهم</string>
@@ -98,9 +98,9 @@
     <string name="voidstone_gift_received">استلام هدية فويدستون</string>
     <string name="voidstone_gift_send">ارسال هدية فويدستون</string>
     <string name="skin_bought">تم شراء الجلد</string>
-    <string na عدد حالات الاستبعادme="profile_name_change_bought">تم شراء تغيير اسم الملف الشخصي</string>
+    <string name="profile_name_change_bought">تم شراء تغيير اسم الملف الشخصي</string>
     <string name="profile_name_color_bought">تم شراء لون اسم الملف الشخصي</string>
-    <string name="profile_color_bought">تم شراء لون الملف الشخصي</stri Elimination Intervalng>
+    <string name="profile_color_bought">تم شراء لون الملف الشخصي</string>
     <string name="profile_color_gradient_bought">تم شراء تدرج لون الملف الشخصي</string>
     <string name="profile_color_gradient_2_bought">تم شراء تدرج لون الملف الشخصي 2</string>
 
