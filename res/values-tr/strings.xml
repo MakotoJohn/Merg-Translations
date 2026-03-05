@@ -18,12 +18,12 @@
 
     <!-- Options menu !-->
     <string name="language">Language</string>
-    <string name="language_english">English</string>
-    <string name="language_german">Deutsch</string>
-    <string name="language_portuguese">Português</string>
-    <string name="language_spanish">Español</string>
-    <string name="language_japanese">日本語</string>
-    <string name="language_italian">Italiano</string>
+    <string name="language_english">English (İngilizce)</string>
+    <string name="language_german">Deutsch (Almanca)</string>
+    <string name="language_portuguese">Português (Portekizce)</string>
+    <string name="language_spanish">Español (İspanyolca)</string>
+    <string name="language_japanese">日本語 (Japonca)</string>
+    <string name="language_italian">Italiano (İtalyanca)</string>
     <string name="background">Background</string>
     <string name="background_black">Black</string>
     <string name="background_white">White</string>
