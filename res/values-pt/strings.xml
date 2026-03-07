@@ -13,7 +13,7 @@
     <string name="email_copy">Copiar E-mail</string>
     <string name="email_support">E-mail para Suporte:</string>
     <string name="developer">Desenvolvedor:</string>
-    <string name="code_contribution">Code Contributions:</string>
+    <string name="code_contribution">Contribuidores para o código:</string>
     <string name="skins">Skins:</string>
     <string name="translations">Traduções:</string>
 
@@ -25,8 +25,8 @@
     <string name="language_spanish">Español (Espanhol)</string>
     <string name="language_japanese">日本語 (Japonês)</string>
     <string name="language_italian">Italiano (Italiano)</string>
-    <string name="language_arabic">عربي</string>
-    <string name="language_turkish">Türkçe</string>
+    <string name="language_arabic">العربية (Árabe)</string>
+    <string name="language_turkish">Türkçe (Turco)</string>
     <string name="background">Fundo</string>
     <string name="background_black">Preto</string>
     <string name="background_white">Branco</string>
@@ -36,9 +36,9 @@
     <string name="control_touch">Toque</string>
     <string name="button_layout">Layout dos Botões</string>
     <string name="customize">Personalizar</string>
-    <string name="opacity">Opacity</string>
+    <string name="opacity">Opacidade</string>
     <string name="leaderboard_size">Tamanho do Placar</string>
-    <string name="show_grid">Mostrar Grade</string>
+    <string name="show_grid">Mostrar Grades</string>
     <string name="custom_background_image">Imagem de Fundo Personalizada</string>
     <string name="custom_background_select">Selecionar Imagem</string>
     <string name="custom_background_opacity">Opacidade do Fundo</string>
@@ -87,39 +87,39 @@
     <string name="max_split_pieces">Núm. Máx. de Splits</string>
     <string name="quick_merge">Juntar-se rapidamente</string>
     <string name="no_holes">Sem Vírus</string>
-    <string name="circle_map">Circle Map</string>
+    <string name="circle_map">Mapa em Formato de Círculo</string>
     <string name="warning_no_holes">Nenhuma estatística será salva</string>
     <string name="gold_holes">Vírus Dourados</string>
 
     <!-- Multiplayer -->
-    <string name="private_room">Private Room</string>
-    <string name="clan">Clan</string>
-    <string name="friends">Friends</string>
-    <string name="send_friend_request">Send Friend Request</string>
-    <string name="friend_request_accepted">You are now friends!</string>
-    <string name="send_friend_request_by_id_or_name">Send a Friend Request by ID or Name</string>
-    <string name="cancel_friend_request">Cancel Friend Request</string>
-    <string name="remove_friend">Remove Friend</string>
-    <string name="friend_request_sent">Friend request sent</string>
-    <string name="friend_requests_received">Friend Requests</string>
-    <string name="friend_requests_sent">Sent Requests</string>
-    <string name="no_friends">No friends yet…</string>
-    <string name="remove_friend_title">Remove Friend</string>
-    <string name="remove_friend_message">Are you sure you want to remove \"%1$s\" (ID: %2$d) as a friend?</string>
-    <string name="cancel_request_title">Cancel Request</string>
-    <string name="cancel_request_message">Are you sure you want to cancel the friend request to \"%1$s\" (ID: %2$d)?</string>
-    <string name="friend_request_error_self">Can\'t send friend request to yourself</string>
-    <string name="friend_request_error_already_sent">Friend request already sent</string>
-    <string name="friend_request_error_already_friends">Already friends</string>
-    <string name="friend_request_error_list_full">Friend list full</string>
+    <string name="private_room">Salas Privadas</string>
+    <string name="clan">Clã</string>
+    <string name="friends">Amigos</string>
+    <string name="send_friend_request">Solic. Amizade</string>
+    <string name="friend_request_accepted">Vocês viraram amigos!</string>
+    <string name="send_friend_request_by_id_or_name">Inserir nome ou ID para enviar solicitação de amizade</string>
+    <string name="cancel_friend_request">Cancelar Solicm Amizade</string>
+    <string name="remove_friend">Remover dos Amigos</string>
+    <string name="friend_request_sent">Solicitação de amizade enviada</string>
+    <string name="friend_requests_received">Solicitações de Amizade</string>
+    <string name="friend_requests_sent">Solicitações Enviadas</string>
+    <string name="no_friends">Seus amigos aparecerão aqui</string>
+    <string name="remove_friend_title">Remover Amigo</string>
+    <string name="remove_friend_message">Tem certeza de que deseja excluir \"%1$s\" (ID: %2$d) da sua lista de amigos?</string>
+    <string name="cancel_request_title">Cancelar Solicitação</string>
+    <string name="cancel_request_message">Tem certeza de que deseja excluir a solicitação de amizade pendente com \"%1$s\" (ID: %2$d)?</string>
+    <string name="friend_request_error_self">Você não pode adicionar a si mesmo(a).</string>
+    <string name="friend_request_error_already_sent">Solicitação de amizade já enviada</string>
+    <string name="friend_request_error_already_friends">Já são amigos</string>
+    <string name="friend_request_error_list_full">A lista de amigos atingiu o limite</string>
 
     <!-- Shop -->
     <string name="shop">Loja</string>
-    <string name="free_voidstones">Free Voidstones!</string>
-    <string name="free_voidstones_subtitle">Pick a square and watch a short video ad to earn voidstones!</string>
-    <string name="free_voidstones_won">You got %d voidstones!</string>
-    <string name="pick">Pick</string>
-    <string name="purchase_id">Purchase ID: %d</string>
+    <string name="free_voidstones">Pedras do Vazio Gratuitas!</string>
+    <string name="free_voidstones_subtitle">Escolha um quadradinho e assista a um anúncio de curta duração para obter Pedras do Vazio!</string>
+    <string name="free_voidstones_won">%d Pedras do Vazio foram adicionadas à conta!</string>
+    <string name="pick">Escolher</string>
+    <string name="purchase_id">ID da Compra: %d</string>
     <string name="voidstone_history">Histórico de Compras com Pds. Vz.</string>
     <string name="purchase_history">Histórico de Compras</string>
     <string name="no_transactions_yet">Transações indisponíveis</string>
@@ -127,27 +127,27 @@
     <string name="in_app_purchase">Compras no app</string>
     <string name="voidstone_gift_received">Presente de Pedras do Vazio recebido</string>
     <string name="voidstone_gift_send">Enviar Pedras do Vazio</string>
-    <string name="skin_bought">Skin comprada</string>
-    <string name="profile_name_change_bought">Alteração de nome adquirida</string>
-    <string name="profile_name_color_bought">Alteração de cores do nome adquirida</string>
-    <string name="profile_color_bought">Alteração de cores do perfil adquirida</string>
-    <string name="profile_color_gradient_bought">Gradiente para perfil adquirido</string>
-    <string name="profile_color_gradient_2_bought">Gradiente 2 para perfil adquirido</string>
-    <string name="profile_name_font_bought">Profile name font unlock</string>
-    <string name="admin_deduction">Admin Deduction</string>
-    <string name="giveaway">Giveaway Prize</string>
-    <string name="admin_reward_sent">Admin Reward Sent</string>
-    <string name="admin_deduction_sent">Admin Deduction Sent</string>
-    <string name="verify_reward">Verify Reward</string>
+    <string name="skin_bought">Skin adquirida</string>
+    <string name="profile_name_change_bought">Item \"Alteração de nome\" adquirido</string>
+    <string name="profile_name_color_bought">Item \"Alteração de cores do nome\" adquirido</string>
+    <string name="profile_color_bought">Item \"Alteração de cores do perfil\" adquirido</string>
+    <string name="profile_color_gradient_bought">Item \"Gradiente para perfil\" adquirido</string>
+    <string name="profile_color_gradient_2_bought">Item \"Gradiente 2 para perfil\" adquirido</string>
+    <string name="profile_name_font_bought">Item \"Fonte para o nome\" adquirido</string>
+    <string name="admin_deduction">Decisão Administrativa</string>
+    <string name="giveaway">Prêmio do Sorteio</string>
+    <string name="admin_reward_sent">Recompensa para Administrador Enviada</string>
+    <string name="admin_deduction_sent">Decisão Administrativa Enviada</string>
+    <string name="verify_reward">Recompensa de Verificação</string>
 
     <!-- Ads -->
-    <string name="ad_not_loaded">Ad not loaded yet</string>
-    <string name="ad_show_failed">Failed to show ad</string>
-    <string name="ad_load_failed">Failed to load ad</string>
-    <string name="ad_rate_limited">You\'ve watched too many ads recently. Please try again in %s.</string>
+    <string name="ad_not_loaded">Anúncio ainda não carregado</string>
+    <string name="ad_show_failed">Falha ao exibir o anúncio</string>
+    <string name="ad_load_failed">Falha ao carregar o anúncio</string>
+    <string name="ad_rate_limited">Muitos anúncios foram exibidos em curto prazo. Tente novamente em %s.</string>
     <string name="time_hrs">hrs</string>
     <string name="time_min">min</string>
-    <string name="time_sec">sec</string>
+    <string name="time_sec">seg</string>
     <string name="ad_reward">Recompensa por anúncios</string>
 
     <!-- Profile -->
@@ -159,15 +159,15 @@
     <string name="logout_all_devices">Desconectar-se de Todos os Dispositivos</string>
     <string name="change_name">Alterar Nome</string>
     <string name="copy_id">Copiar ID</string>
-    <string name="save_profile_description">Save Profile Description</string>
-    <string name="profile_description_placeholder">Type a description…</string>
-    <string name="profile_description_save_success">Profile description saved</string>
-    <string name="profile_description_save_failed">Failed to save profile description</string>
-    <string name="profile_description_too_long">Description is too long! (max %d characters)</string>
-    <string name="unlock_description_color">Unlock Description Text Color</string>
-    <string name="description_text_color">Description Text Color</string>
-    <string name="unlock_description_color_success">Description text color unlocked!</string>
-    <string name="unlock_description_color_already_unlocked">Description text color already unlocked</string>
+    <string name="save_profile_description">Salvar Biografia</string>
+    <string name="profile_description_placeholder">Inserir texto de biografia…</string>
+    <string name="profile_description_save_success">Biografia salva</string>
+    <string name="profile_description_save_failed">Falha ao salvar a biografia</string>
+    <string name="profile_description_too_long">Número de caracteres máximos (%d) para texto de biografia atingido!</string>
+    <string name="unlock_description_color">Desbloquear Cores para o Texto da Biografia</string>
+    <string name="description_text_color">Cor do Texto da Biografia</string>
+    <string name="unlock_description_color_success">Cores para o texto da biografia desbloqueadas!</string>
+    <string name="unlock_description_color_already_unlocked">Cores para o texto da biografia já desbloqueadas</string>
     <string name="statistics">Estatísticas</string>
     <string name="achievements">Conquistas</string>
     <string name="delete_account">EXCLUIR CONTA</string>
@@ -206,12 +206,12 @@
     <string name="name_color_save_success">Cores do nome salvas!</string>
     <string name="name_color_save_failed">Falha ao salvar as cores do nome</string>
     <string name="name_colors_not_unlocked">Cores do nome não desbloqueadas</string>
-    <string name="unlock_name_fonts">Unlock Name Fonts</string>
-    <string name="unlock_name_fonts_success">Name fonts unlocked!</string>
-    <string name="unlock_name_fonts_already_unlocked">Name fonts already unlocked</string>
-    <string name="name_font_save_success">Font saved!</string>
-    <string name="name_fonts_not_unlocked">Name fonts not unlocked</string>
-    <string name="profile_name_font">Profile Name Font</string>
+    <string name="unlock_name_fonts">Desbloquear Fontes para o Nome</string>
+    <string name="unlock_name_fonts_success">Fontes para o nome desbloqueadas!</string>
+    <string name="unlock_name_fonts_already_unlocked">Fontes para o nome já desbloqueadas</string>
+    <string name="name_font_save_success">Fonte aplicada!</string>
+    <string name="name_fonts_not_unlocked">Fontes para o nome não desbloqueadas</string>
+    <string name="profile_name_font">Fonte para o Nome do Perfil</string>
     <string name="name_change_success">Nome alterado para: %s</string>
     <string name="name_change_invalid_length">Nome muito longo</string>
     <string name="name_change_taken">Nome em uso</string>
@@ -233,9 +233,9 @@
     <!-- Profile Tags -->
     <string name="admin">ADMIN</string>
     <string name="mod">MOD</string>
-    <string name="verified">Verified</string>
+    <string name="verified">Verificado(a)</string>
     <string name="youtube">YouTube</string>
-    <string name="translator">Translator</string>
+    <string name="translator">Tradutor(a)</string>
 
     <!-- Search Profile -->
     <string name="search_account">Procurar Conta</string>
@@ -250,8 +250,8 @@
     <string name="stat_total">Total:</string>
     <string name="stat_regular_value">Regular (Valor):</string>
     <string name="stat_regular_count">Regular (Contagem):</string>
-    <string name="stat_rainbow_value">Rainbow (Value):</string>
-    <string name="stat_rainbow_count">Rainbow (Count):</string>
+    <string name="stat_rainbow_value">Arco-íris (Valor):</string>
+    <string name="stat_rainbow_count">Arco-íris (Contagem):</string>
     <string name="stat_gold_value">Ouro (Valor):</string>
     <string name="stat_gold_count">Ouro (Contagem):</string>
     <string name="stat_silver_value">Prata (Valor):</string>
@@ -271,29 +271,29 @@
     <string name="stat_collisions">Colisões:</string>
     <string name="stat_boosts">Incrementos:</string>
     <string name="stat_teleports">Teletransportes:</string>
-    <string name="stat_rewarded_ads_watched">Reward Ads Watched:</string>
+    <string name="stat_rewarded_ads_watched">Anúncios para recompensa assistidos:</string>
 
     <!-- Mail !-->
-    <string name="mail">Mail</string>
-    <string name="sent_mail_to_id">Sent Mail to %d</string>
-    <string name="mail_id">Mail ID: %d</string>
-    <string name="no_mail_yet">No mail yet</string>
-    <string name="mail_from">From:</string>
-    <string name="mail_to">To:</string>
-    <string name="received">Received</string>
-    <string name="refresh">Refresh</string>
-    <string name="write_mail">Write Mail</string>
-    <string name="mail_reply">Reply</string>
-    <string name="mail_title_hint">Title</string>
-    <string name="mail_content_hint">Content</string>
-    <string name="mail_recipient_not_found">Recipient not found</string>
-    <string name="mail_send_to_self">Cannot send mail to yourself</string>
-    <string name="mail_title_too_long">Title too long</string>
-    <string name="mail_content_too_long">Content too long</string>
-    <string name="mail_sent_success">Sent</string>
-    <string name="mark_unread">Mark Unread</string>
-    <string name="copy_verification_code">Copy Verification Code</string>
-    <string name="code_copied">Code copied to clipboard!</string>
+    <string name="mail">E-mail</string>
+    <string name="sent_mail_to_id">Mensagem enviada a %d</string>
+    <string name="mail_id">ID da Mensagem: %d</string>
+    <string name="no_mail_yet">As mensagens aparecerão aqui</string>
+    <string name="mail_from">Remetente:</string>
+    <string name="mail_to">Destinatário(a):</string>
+    <string name="received">Recebidas</string>
+    <string name="refresh">Atualizar</string>
+    <string name="write_mail">Escrever Mensagem</string>
+    <string name="mail_reply">Responder</string>
+    <string name="mail_title_hint">Título</string>
+    <string name="mail_content_hint">Texto</string>
+    <string name="mail_recipient_not_found">Destinatário(a) não encontrado(a)</string>
+    <string name="mail_send_to_self">Não é possível enviar mensagens para si mesmo(a).</string>
+    <string name="mail_title_too_long">Conteúdo do título muito longo</string>
+    <string name="mail_content_too_long">Conteúdo do texto muito longo</string>
+    <string name="mail_sent_success">Enviadas</string>
+    <string name="mark_unread">Marcar como Não Lida</string>
+    <string name="copy_verification_code">Copiar Código de Verificação</string>
+    <string name="code_copied">Código copiado para a área de transferência!</string>
 
     <!-- Gamemodes !-->
     <string name="gamemode_classic">Clássico</string>
@@ -330,16 +330,16 @@
     <string name="adventure_obj_survive">Sobreviva</string>
     <string name="adventure_obj_high_speed">Alta Velocidade!</string>
     <string name="adventure_obj_more_holes">Mais Vírus!</string>
-    <string name="adventure_obj_collect_food">Collect %d Food</string>
-    <string name="adventure_obj_invisible_bots">Invisible Bots!</string>
-    <string name="adventure_obj_growing_bots">Growing Bots!</string>
-    <string name="adventure_obj_reach_size">Reach %d Size</string>
-    <string name="adventure_obj_finish_first">Finish 1st</string>
+    <string name="adventure_obj_collect_food">Colete %d Pontos</string>
+    <string name="adventure_obj_invisible_bots">Bots Invisíveis!</string>
+    <string name="adventure_obj_growing_bots">Bots Crescentes!</string>
+    <string name="adventure_obj_reach_size">Atinja um Tamanho de %d</string>
+    <string name="adventure_obj_finish_first">Chegue em 1º lugar</string>
 
     <!-- Timer text !-->
     <string name="timer_time">Tempo</string>
-    <string name="timer_overtime">Overtime</string>
-    <string name="timer_overtime_count">Overtime %d</string>
+    <string name="timer_overtime">Acréscimo</string>
+    <string name="timer_overtime_count">Acréscimo %d</string>
     <string name="timer_grace">Tolerância</string>
     <string name="timer_tiebreaker">Desempate</string>
     <string name="timer_winner">Ganhador(a)</string>
@@ -412,7 +412,7 @@
     <string name="speed_boost">+Velocidade: %ss</string>
     <string name="xp" translatable="false">XP</string>
     <string name="level">Nível</string>
-    <string name="level_number">Level %d</string>
+    <string name="level_number">Nível %d</string>
     <string name="food">Alimento</string>
     <string name="voidstones">Pedras do Vazio</string>
     <string name="blobs_eaten">Blobs Absorvidos</string>
@@ -434,8 +434,8 @@
     <string name="dialog_connection_error">Erro de Conexão</string>
     <string name="dialog_disconnected">Desconectado</string>
     <string name="dialog_disconnected_message">Conexão com o servidor perdida.</string>
-    <string name="kicked_from_room">Kicked from Room!</string>
-    <string name="banned_from_room">Banned from Room!</string>
+    <string name="kicked_from_room">Expulso(a) da Sala!</string>
+    <string name="banned_from_room">Banido(a) da Sala!</string>
     <string name="room_crash">A sala travou: %s</string>
     <string name="dialog_yes">SIM</string>
     <string name="dialog_no">NÃO</string>
@@ -446,18 +446,18 @@
     <string name="dialog_locked">Bloqueado</string>
 
     <!-- Block Player -->
-    <string name="blocked_players">Blocked Players</string>
-    <string name="no_blocked_players">No blocked players</string>
-    <string name="unblock_confirm_message">Unblock \"%1$s\" (ID: %2$d)?</string>
-    <string name="block_player">Block Player</string>
-    <string name="unblock_player">Unblock Player</string>
-    <string name="block_confirm_title">Block Player?</string>
-    <string name="block_confirm_message">Are you sure you want to block %s? You will both be unable to send each other mails or friend requests, and will be removed from each other\'s friends list.</string>
-    <string name="player_unblocked">Player unblocked</string>
-    <string name="player_blocked">Player blocked</string>
-    <string name="you_blocked_user">You blocked this user</string>
-    <string name="user_blocked_you">Blocked</string>
-    <string name="both_blocked">Both users blocked each other</string>
+    <string name="blocked_players">Jogadores Bloqueados</string>
+    <string name="no_blocked_players">Os jogadores bloqueados aparecerão aqui</string>
+    <string name="unblock_confirm_message">Desbloquear \"%1$s\" (ID: %2$d)?</string>
+    <string name="block_player">Bloquear Jogador(a)</string>
+    <string name="unblock_player">Desbloquear Jogador(a)</string>
+    <string name="block_confirm_title">Bloquear Jogador(a)?</string>
+    <string name="block_confirm_message">Tem certeza de que deseja bloquear este(a) jogador(a): %s? Você não receberá mais mensagens ou solicitação de amizade dele(a) e ele(a) será excluído(a) da sua lista de amigos.</string>
+    <string name="player_unblocked">Jogador(a) desbloqueado(a)</string>
+    <string name="player_blocked">Jogador(a) bloqueado(a)</string>
+    <string name="you_blocked_user">Você bloqueou</string>
+    <string name="user_blocked_you">Você foi bloqueado(a)</string>
+    <string name="both_blocked">Ambos se bloquearam</string>
 
     <!-- LAN Multiplayer -->
     <string name="host_local_game">HOSPEDAR LOCALMENTE</string>
@@ -475,12 +475,12 @@
     <string name="remote_lan_connections">É necessário redirecionar a porta UDP %d ou, nas configurações do seu roteador, ativar o DMZ para permitir que outros clientes entrem usando seu IP público. As conexões poderão falhar se a sua rede estiver sob um NAT/CGNAT Simétrico. Visite %s para saber mais e verificar o tipo de NAT do seu provedor de Internet.</string>
 
     <!-- Player List -->
-    <string name="player_list_title">PLAYER LIST</string>
-    <string name="player_list_count">Players: %d ⋅ Bots: %d ⋅ Total: %d</string>
-    <string name="kick_confirm_title">Kick Player</string>
-    <string name="kick_confirm_message">Kick %s from this room? They may rejoin.</string>
-    <string name="ban_confirm_title">Ban Player</string>
-    <string name="ban_confirm_message">Are you sure you want to ban %s from this room? They will never be able to rejoin and this cannot be undone!</string>
+    <string name="player_list_title">LISTA DE JOGADORES</string>
+    <string name="player_list_count">Jogadores: %d ⋅ Bots: %d ⋅ Total: %d</string>
+    <string name="kick_confirm_title">Expulsar Jogador(a)</string>
+    <string name="kick_confirm_message">Expulsar este(a) jogador(a) da sala: %s? Ele(a) ainda poderá entrar na sala.</string>
+    <string name="ban_confirm_title">Banir Jogador(a)</string>
+    <string name="ban_confirm_message">Tem certeza de que deseja banir este(a) jogador(a) da sala: %s? Ele(a) não poderá entrar mais na sala e isso não poderá ser desfeito!</string>
 
     <!-- Miscellaneous !-->
     <string name="play">Jogar</string>
@@ -495,13 +495,13 @@
     <string name="wait">Aguarde</string>
     <string name="back">Voltar</string>
     <string name="mode">Modo</string>
-    <string name="confirm">Confirm</string>
+    <string name="confirm">Confirmar</string>
     <string name="save">Salvar</string>
     <string name="saved">Salvo</string>
     <string name="saving">Salvando…</string>
-    <string name="sent">Sent</string>
-    <string name="send">Send</string>
-    <string name="sending">Sending…</string>
+    <string name="sent">Enviado</string>
+    <string name="send">Enviar</string>
+    <string name="sending">Enviando…</string>
     <string name="buy">Comprar</string>
     <string name="buying">Comprando…</string>
     <string name="search">Procurar</string>
@@ -513,10 +513,10 @@
     <string name="info">Informação</string>
     <string name="empty">Vazio</string>
     <string name="name">Nome</string>
-    <string name="owner">Owner</string>
-    <string name="kick">Kick</string>
-    <string name="ban">Ban</string>
-    <string name="signal">Signal</string>
+    <string name="owner">Dono(a)</string>
+    <string name="kick">Expulsar</string>
+    <string name="ban">Banir</string>
+    <string name="signal">Sinal</string>
     <string name="home">Início</string>
     <string name="settings">Configurações</string>
     <string name="team">Equipe</string>
@@ -539,14 +539,14 @@
     <string name="tps" translatable="false">TPS</string>
     <string name="mspt" translatable="false">MSPT</string>
     <string name="ur" translatable="false">UR</string>
-    <string name="uptime">Uptime: %s</string>
+    <string name="uptime">Tempo ativo(a): %s</string>
     <string name="show_ui">Mostrar IU</string>
     <string name="open_menu">Abrir Menu</string>
     <string name="stop_spectating">Parar de Telar</string>
     <string name="spectate">Telar</string>
     <string name="previous_entity">Entidade Anterior</string>
     <string name="next_entity">Próxima Entidade</string>
-    <string name="level_abbreviated">Lv.%d</string>
+    <string name="level_abbreviated">Nv.%d</string>
     <string name="left">Restante</string> <!-- left as in remaining, not the left direction -->
     <string name="total">Total</string>
     <string name="unknown">Desconhecido</string>
@@ -563,9 +563,9 @@
     <string name="not_enough_voidstones">Pedras do Vazio insuficientes</string>
     <string name="database_write_fail">Falha na gravação do banco de dados</string>
     <string name="database_read_fail">Falha no carregamento do banco de dados</string>
-    <string name="banned">Banned</string>
-    <string name="muted">Muted</string>
-    <string name="forbidden">Forbidden</string>
+    <string name="banned">Banido(a)</string>
+    <string name="muted">Silenciado(a)</string>
+    <string name="forbidden">Proibido(a)</string>
     <string name="internal_server_error">Erro Interno do Servidor</string>
     <string name="unknown_error_code">Erro desconhecido. Código %d</string>
     <string name="page_x_of_y">Página %s de %s</string>
